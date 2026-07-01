@@ -56,7 +56,7 @@ Internal due dates are set **4 days before the official course due date** so the
 
 | # | Course Deliverable | Official Due Date | Internal Due Date | Points | Primary Owner | Supporting Roles | Link |
 |---|---|---:|---:|---:|---|---|---|
-| 1 | Project Plan | May 27, 2026 | May 23, 2026 | 100 | Project Manager | Assistant PM, Product Owner | [Project Plan](https://docs.google.com/document/d/1pkEtZFITfYhg855WGQOLnQASZ7ippso_l5tToLFCDXI/edit?tab=t.0) |
+| 1 | Project Plan | May 27, 2026 | May 23, 2026 | 100 | Project Manager | Assistant PM, Product Owner | [Project Plan](01_Project_Plan/Project_Plan.docx) |
 | 2 | Project Design | June 3, 2026 | May 30, 2026 | 100 | Technical Leads | PM/APM approval, Product Owner input | Coming Soon |
 | 3 | Phase I Source | June 10, 2026 | June 6, 2026 | 50 | Technical Leads | Entire team | Coming Soon |
 | 4 | Peer Review 1 | June 10, 2026 | June 6, 2026 | 50 | Each team member | PM/APM remind and track completion | Coming Soon |

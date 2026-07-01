@@ -13,10 +13,10 @@
 | Course Deliverables Repository | [GitHub Repository](https://github.com/UMGCCAPSTONE/CourseDeliverables.git) |
 | Project Plan | [Google Docs Project Plan](https://docs.google.com/document/d/1pkEtZFITfYhg855WGQOLnQASZ7ippso_l5tToLFCDXI/edit?tab=t.0) |
 | Project Design | [Google Docs Project Design](https://docs.google.com/document/d/1b_h01x-qDs2kFiXOge9icZIVW_d6mkAIbPAY3Eifu6k/edit?tab=t.0) |
-| Phase I Source | Coming Soon |
-| Test Plan | Coming Soon |
-| Phase II Source | Coming Soon |
-| User Guide | Coming Soon |
+| Phase I Source | [Phase I Source](03_Phase_I_Source/Phase_I_Source.docx) |
+| Test Plan | [Test Plan](05_Test_Plan/Test_Plan.docx) |
+| Phase II Source | [Phase II Source](06_Phase_II_Source/Phase_II_Source.docx) |
+| User Guide | [User Guide](07_User_Guide/User_Guide.docx) |
 | Final Submission | Coming Soon |
 
 ---

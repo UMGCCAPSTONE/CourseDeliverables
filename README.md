@@ -62,7 +62,7 @@ Internal due dates are set **4 days before the official course due date** so the
 | 4 | Peer Review 1 | June 10, 2026 | June 6, 2026 | 50 | Each team member | PM/APM remind and track completion | Coming Soon |
 | 5 | Test Plan | June 17, 2026 | June 13, 2026 | 100 | PM / Assistant PM | Backend Lead, Frontend Lead, AI/Cloud Lead | [Test Plan](05_Test_Plan/Test_Plan.docx) |
 | 6 | Phase II Source | June 24, 2026 | June 20, 2026 | 50 | Technical Leads | Entire team | [Phase II Source](06_Phase_II_Source/Phase_II_Source.docx) |
-| 7 | User Guide | July 1, 2026 | June 27, 2026 | 50 | Product Owner | PM/APM, Frontend Lead, AI/Cloud Lead | Coming Soon |
+| 7 | User Guide | July 1, 2026 | June 27, 2026 | 50 | Product Owner | PM/APM, Frontend Lead, AI/Cloud Lead | [User Guide](07_User_Guide/User_Guide.docx) |
 | 8 | Final | July 8, 2026 | July 4, 2026 | 300 | Project Manager | Entire team | Coming Soon |
 | 9 | Peer Review 2 | July 8, 2026 | July 4, 2026 | 50 | Each team member | PM/APM remind and track completion | Coming Soon |
 

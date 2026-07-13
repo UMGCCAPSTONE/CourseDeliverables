@@ -65,12 +65,12 @@ Internal due dates are set **4 days before the official course due date** so the
 | 1 | Project Plan | May 27, 2026 | May 23, 2026 | 100 | Project Manager | Assistant PM, Product Owner | [Project Plan](01_Project_Plan/Project_Plan.docx) |
 | 2 | Project Design | June 3, 2026 | May 30, 2026 | 100 | Technical Leads | PM/APM approval, Product Owner input | [Project Design](02_Project_Design/Project_Design.docx) |
 | 3 | Phase I Source | June 10, 2026 | June 6, 2026 | 50 | Technical Leads | Entire team | [Phase I Source](03_Phase_I_Source/Phase_I_Source.docx) |
-| 4 | Peer Review 1 | June 10, 2026 | June 6, 2026 | 50 | Each team member | PM/APM remind and track completion | Coming Soon |
+| 4 | Peer Review 1 | June 10, 2026 | June 6, 2026 | 50 | Each team member | PM/APM remind and track completion | *Individual assignment — graded independently, not tracked in this repo* |
 | 5 | Test Plan | June 17, 2026 | June 13, 2026 | 100 | PM / Assistant PM | Backend Lead, Frontend Lead, AI/Cloud Lead | [Test Plan](05_Test_Plan/Test_Plan.docx) |
 | 6 | Phase II Source | June 24, 2026 | June 20, 2026 | 50 | Technical Leads | Entire team | [Phase II Source](06_Phase_II_Source/Phase_II_Source.docx) |
 | 7 | User Guide | July 1, 2026 | June 27, 2026 | 50 | Product Owner | PM/APM, Frontend Lead, AI/Cloud Lead | [User Guide](07_User_Guide/User_Guide.docx) |
 | 8 | Final | July 8, 2026 | July 4, 2026 | 300 | Project Manager | Entire team | Coming Soon |
-| 9 | Peer Review 2 | July 8, 2026 | July 4, 2026 | 50 | Each team member | PM/APM remind and track completion | Coming Soon |
+| 9 | Peer Review 2 | July 8, 2026 | July 4, 2026 | 50 | Each team member | PM/APM remind and track completion | *Individual assignment — graded independently, not tracked in this repo* |
 
 ---
 

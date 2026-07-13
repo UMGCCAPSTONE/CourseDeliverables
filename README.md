@@ -6,6 +6,12 @@
 
 ---
 
+> "One of the most unique, innovative, and architecturally sound projects I have seen in my 10 years of teaching this class. This was not only fun to watch, it was fun to examine the artifacts as well. Love that you used public cloud — hope you did not spend too much money. Outstanding work team. I really mean that."
+>
+> — **Capstone Course Instructor**
+
+---
+
 ## 🔗 Important Links
 
 | Resource | Link |
